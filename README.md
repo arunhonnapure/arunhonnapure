@@ -9,14 +9,6 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and learn
 ### 💻 **Technologies & Tools I Love:**
 - **Languages:** Python
 - **Version Control:** Git, GitHub
-
----
-
-### 🧠 **What I’m Learning:**
-- Deep Dive into **Machine Learning** and **AI**
-- Building projects in **Full Stack Web Development**
-- Exploring **Cloud Computing** and **DevOps**
-  
 ---
 
 ### 🌱 **Fun Facts About Me:**
