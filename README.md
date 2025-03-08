@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and learn
 ---
 
 ### 📫 **Let’s Connect:**
-- 💼 [LinkedIn: Arun Honnapure](https://www.linkedin.com/in/arun-honnapure/)
+- 💼 [LinkedIn: Arun Honnapure](https://www.linkedin.com/in/arunhonnapure)
 - 📧 **arunhonnapure@example.com**
 
 Thanks for visiting my GitHub profile! Feel free to explore my repositories and open issues or pull requests if you’d like to collaborate. Let's learn and build together! 😄
